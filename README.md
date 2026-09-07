@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Terrance07
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning  Java
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Hachathon
 - 📫 How to reach me @ terrancboniface007@gmail.com
 
